@@ -144,15 +144,3 @@ If you find this project helpful:
 🔁 Share it with your dev friends
 
 🔗 Repository: https://github.com/maxoncodes/OpenAI-Chatbot
-
-📘 Tutorial: Build OpenAI Chatbot & Deploy Worldwide
-```
-
----
-
-Would you like me to add a **MIT `LICENSE` file** next so your repo looks professional and complete?
-````
-
-
-
-
