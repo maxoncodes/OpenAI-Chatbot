@@ -102,12 +102,6 @@ Download the latest version (v1.0):
 
 File Size: 45.4 KiB
 
-🧠 API Details
-Parameter	Value
-Model	gemini-1.5-flash
-Endpoint	https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent
-Method	POST
-Headers	Content-Type: application/json
 💬 Chat Flow
 
 User sends message or uploads file
